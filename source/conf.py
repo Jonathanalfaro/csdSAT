@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'csdSAT'
+project = 'svdSAT'
 copyright = '2023, Jonathan Alfaro'
 author = 'Jonathan Alfaro'
 release = '0.1'
@@ -24,5 +24,5 @@ language = 'es'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'furo'
+html_theme = 'alabaster'
 html_static_path = ['_static']

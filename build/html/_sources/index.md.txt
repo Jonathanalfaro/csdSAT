@@ -1,4 +1,0 @@
-# csdSAT
-
-## Consulta, Solicita y Descarga (csd) 
-Consulta, Solicita y Descarga tus comprobantes físcales digitales del SAT directamente de Odoo.
